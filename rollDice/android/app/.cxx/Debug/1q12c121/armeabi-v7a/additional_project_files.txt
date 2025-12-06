@@ -1,0 +1,7 @@
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\RNHapticFeedbackSpec-generated.cpp.o
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\react\renderer\components\RNHapticFeedbackSpec\ComponentDescriptors.cpp.o
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\react\renderer\components\RNHapticFeedbackSpec\EventEmitters.cpp.o
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\react\renderer\components\RNHapticFeedbackSpec\Props.cpp.o
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\react\renderer\components\RNHapticFeedbackSpec\RNHapticFeedbackSpecJSI-generated.cpp.o
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\react\renderer\components\RNHapticFeedbackSpec\ShadowNodes.cpp.o
+D:\code\android\rollDice\android\app\.cxx\Debug\1q12c121\armeabi-v7a\RNHapticFeedbackSpec_autolinked_build\CMakeFiles\react_codegen_RNHapticFeedbackSpec.dir\react\renderer\components\RNHapticFeedbackSpec\States.cpp.o

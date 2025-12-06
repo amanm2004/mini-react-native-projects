@@ -1,0 +1,49 @@
+{
+  "buildFiles": [
+    "D:\\code\\android\\rollDice\\node_modules\\react-native-haptic-feedback\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "D:\\code\\android\\rollDice\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\code\\android\\rollDice\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\amand\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\code\\android\\rollDice\\android\\app\\.cxx\\Debug\\1q12c121\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\amand\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\code\\android\\rollDice\\android\\app\\.cxx\\Debug\\1q12c121\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "arm64-v8a",
+      "output": "D:\\code\\android\\rollDice\\android\\app\\build\\intermediates\\cxx\\Debug\\1q12c121\\obj\\arm64-v8a\\libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "C:\\Users\\amand\\.gradle\\caches\\9.0.0\\transforms\\5fa135f9220cf0ae1e3ee40cd371125b\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\amand\\.gradle\\caches\\9.0.0\\transforms\\1e84847373c8b60ddb3f088099977c2a\\transformed\\react-android-0.82.1-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\amand\\.gradle\\caches\\9.0.0\\transforms\\1e84847373c8b60ddb3f088099977c2a\\transformed\\react-android-0.82.1-debug\\prefab\\modules\\reactnative\\libs\\android.arm64-v8a\\libreactnative.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "D:\\code\\android\\rollDice\\android\\app\\build\\intermediates\\cxx\\Debug\\1q12c121\\obj\\arm64-v8a\\libappmodules.so",
+      "runtimeFiles": [
+        "D:\\code\\android\\rollDice\\android\\app\\build\\intermediates\\cxx\\Debug\\1q12c121\\obj\\arm64-v8a\\libreact_codegen_safeareacontext.so",
+        "C:\\Users\\amand\\.gradle\\caches\\9.0.0\\transforms\\5fa135f9220cf0ae1e3ee40cd371125b\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\amand\\.gradle\\caches\\9.0.0\\transforms\\1e84847373c8b60ddb3f088099977c2a\\transformed\\react-android-0.82.1-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\amand\\.gradle\\caches\\9.0.0\\transforms\\1e84847373c8b60ddb3f088099977c2a\\transformed\\react-android-0.82.1-debug\\prefab\\modules\\reactnative\\libs\\android.arm64-v8a\\libreactnative.so"
+      ]
+    },
+    "react_codegen_RNHapticFeedbackSpec::@a83561f277f6afbb326c": {
+      "artifactName": "react_codegen_RNHapticFeedbackSpec",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    }
+  }
+}

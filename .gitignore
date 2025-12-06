@@ -1,0 +1,20 @@
+# Dependency Directories (IGNORES node_modules in ANY directory)
+node_modules/
+**/node_modules/
+
+# Build Output
+build/
+**/build/
+/ios/Pods/
+/android/.gradle/
+/android/app/build/
+/ios/DerivedData/
+
+# IDE/System Files
+.DS_Store
+.idea/
+.vscode/
+
+# Environment Variables
+.env
+.env.*

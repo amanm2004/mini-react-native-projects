@@ -1,0 +1,20 @@
+# ninja log v5
+12	127	0	D:/code/android/currencyConverter/android/app/.cxx/Debug/43647368/x86_64/CMakeFiles/cmake.verify_globs	fc36a559d6dca5e8
+91	5075	7866554190641653	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1ac7cb010297088a620f74428458cb8a/jni/react/renderer/components/safeareacontext/States.cpp.o	84e5daba434a190a
+42	5856	7866554198244462	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/69cc360e91b7fedae73066b929dc8560/react/renderer/components/safeareacontext/EventEmitters.cpp.o	f9195b5ace3c6452
+109	6232	7866554202020714	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/2c9c9249797c0832ab99af9ac5e1a331/components/safeareacontext/safeareacontextJSI-generated.cpp.o	8a050c1306a5c68d
+168	6342	7866554203166066	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/77c0569ab697113088f2374f70da5464/generated/source/codegen/jni/safeareacontext-generated.cpp.o	551887f2818b4927
+8	7207	7866554211827247	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/18b346f62a43aa5d6d67ca477258b7a0/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	31dab2bc99700ef6
+76	7264	7866554212413499	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1ac7cb010297088a620f74428458cb8a/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	422c23276ce2890a
+150	7573	7866554215614954	CMakeFiles/appmodules.dir/OnLoad.cpp.o	92dc7a5d4811faae
+64	7968	7866554219103724	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1ac7cb010297088a620f74428458cb8a/jni/react/renderer/components/safeareacontext/Props.cpp.o	19505287aaf7ebf3
+54	8513	7866554224678399	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/515da2277c33fb219550a2f8330af625/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	45eead5410b80fa8
+28	9056	7866554230303265	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8a5fcd520d0ea7a887ad6451ce7bf850/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	401a080b4525f410
+9057	9451	7866554234081479	D:/code/android/currencyConverter/android/app/build/intermediates/cxx/Debug/43647368/obj/x86_64/libreact_codegen_safeareacontext.so	cadeaa9d33a2d135
+127	9617	7866554235614202	CMakeFiles/appmodules.dir/D_/code/android/currencyConverter/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	97ede89671c3343e
+9618	10000	7866554239961240	D:/code/android/currencyConverter/android/app/build/intermediates/cxx/Debug/43647368/obj/x86_64/libappmodules.so	3e8b590304cc389b
+17	148	0	D:/code/android/currencyConverter/android/app/.cxx/Debug/43647368/x86_64/CMakeFiles/cmake.verify_globs	fc36a559d6dca5e8
+12	100	0	D:/code/android/currencyConverter/android/app/.cxx/Debug/43647368/x86_64/CMakeFiles/cmake.verify_globs	fc36a559d6dca5e8
+7	119	0	D:/code/android/currencyConverter/android/app/.cxx/Debug/43647368/x86_64/CMakeFiles/cmake.verify_globs	fc36a559d6dca5e8
+5	86	0	D:/code/android/currencyConverter/android/app/.cxx/Debug/43647368/x86_64/CMakeFiles/cmake.verify_globs	fc36a559d6dca5e8
+7	85	0	D:/code/android/currencyConverter/android/app/.cxx/Debug/43647368/x86_64/CMakeFiles/cmake.verify_globs	fc36a559d6dca5e8

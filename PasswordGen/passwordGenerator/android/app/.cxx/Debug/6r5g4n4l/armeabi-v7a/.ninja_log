@@ -1,0 +1,21 @@
+# ninja log v5
+5	67	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79
+118	5677	7864040987347111	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1bd743a517bb1e68827365376df80dc4/components/safeareacontext/States.cpp.o	97ddcdbd53eac8f1
+57	7011	7864041000487099	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1bd743a517bb1e68827365376df80dc4/components/safeareacontext/EventEmitters.cpp.o	eb6753bc1c881a8
+133	7643	7864041007251764	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/01f97f7302e59329c0ad9cec5a0f0e42/safeareacontextJSI-generated.cpp.o	7ff39267ccf9b1b6
+159	7790	7864041008873281	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/161f2efccf15583e84fed1f38410af79/codegen/jni/safeareacontext-generated.cpp.o	79eb07165537e2dd
+39	8332	7864041014472604	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/2e58ae8e570101be961de27b8e13ef16/safeareacontext/RNCSafeAreaViewState.cpp.o	5b1781eb47c22ab5
+2	8729	7864041018328795	CMakeFiles/appmodules.dir/OnLoad.cpp.o	21c5b972cdbe1433
+147	8749	7864041018748224	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1bd743a517bb1e68827365376df80dc4/components/safeareacontext/ShadowNodes.cpp.o	cd1bd9219cee08b2
+106	9070	7864041021819709	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/386fe92fd7370c20339db9a15359170e/renderer/components/safeareacontext/Props.cpp.o	1df524d6cdf75404
+94	9792	7864041028951301	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/256773604906c0e7fca4b813ffea0c79/safeareacontext/ComponentDescriptors.cpp.o	541870048828de8e
+26	9847	7864041029566925	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/2e58ae8e570101be961de27b8e13ef16/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	2b899ce478539117
+9847	10169	7864041032925088	D:/code/android/PasswordGen/passwordGenerator/android/app/build/intermediates/cxx/Debug/6r5g4n4l/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	520b9a06ed6e4077
+13	11253	7864041043476012	CMakeFiles/appmodules.dir/D_/code/android/PasswordGen/passwordGenerator/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	cf222e052a2bb4d1
+11254	11468	7864041045973863	D:/code/android/PasswordGen/passwordGenerator/android/app/build/intermediates/cxx/Debug/6r5g4n4l/obj/armeabi-v7a/libappmodules.so	15fa1cd8a0ea72b8
+12	82	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79
+4	34	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79
+3	36	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79
+8	76	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79
+6	66	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79
+9	64	0	D:/code/android/PasswordGen/passwordGenerator/android/app/.cxx/Debug/6r5g4n4l/armeabi-v7a/CMakeFiles/cmake.verify_globs	d87938c52be7ab79

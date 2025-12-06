@@ -1,0 +1,2 @@
+D:\code\android\PasswordGen\passwordGenerator\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+D:\code\android\PasswordGen\passwordGenerator\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

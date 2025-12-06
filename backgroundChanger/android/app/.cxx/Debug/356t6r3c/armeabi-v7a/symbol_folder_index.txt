@@ -1,0 +1,1 @@
+D:\code\android\backgroundChanger\android\app\build\intermediates\cxx\Debug\356t6r3c\obj\armeabi-v7a

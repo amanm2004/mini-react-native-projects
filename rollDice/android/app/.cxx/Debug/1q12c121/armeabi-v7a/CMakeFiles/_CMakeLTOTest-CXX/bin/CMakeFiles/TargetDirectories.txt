@@ -1,0 +1,4 @@
+D:/code/android/rollDice/android/app/.cxx/Debug/1q12c121/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/code/android/rollDice/android/app/.cxx/Debug/1q12c121/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/code/android/rollDice/android/app/.cxx/Debug/1q12c121/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/code/android/rollDice/android/app/.cxx/Debug/1q12c121/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
