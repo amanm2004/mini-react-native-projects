@@ -1,0 +1,7 @@
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\VectorIconsFontAwesome-generated.cpp.o
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\react\renderer\components\VectorIconsFontAwesome\ComponentDescriptors.cpp.o
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\react\renderer\components\VectorIconsFontAwesome\EventEmitters.cpp.o
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\react\renderer\components\VectorIconsFontAwesome\Props.cpp.o
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\react\renderer\components\VectorIconsFontAwesome\ShadowNodes.cpp.o
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\react\renderer\components\VectorIconsFontAwesome\States.cpp.o
+D:\code\android\tictactoe\android\app\.cxx\Debug\293r6p3m\x86_64\VectorIconsFontAwesome_autolinked_build\CMakeFiles\react_codegen_VectorIconsFontAwesome.dir\react\renderer\components\VectorIconsFontAwesome\VectorIconsFontAwesomeJSI-generated.cpp.o
